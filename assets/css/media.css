@@ -1,0 +1,12 @@
+@media (max-width: 900px){
+  [class*="col-"]{
+    width: 100%;
+  }
+  [class*="col-"] p{
+    font-size: 1em;
+  }
+  #btn{
+    padding: 5%;
+    font-size: 1em;
+  }
+}
