@@ -28,6 +28,9 @@ a{
 a:hover{
   color: white;
 }
+#burger-bar{
+  display: none;
+}
 /*estilos seccion del titulo*/
 .title{
   background-image: url(../img/logo.jpg);

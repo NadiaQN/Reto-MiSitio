@@ -2,11 +2,25 @@
   [class*="col-"]{
     width: 100%;
   }
+  .nav-bar .row .col-6{
+    width: 50%;
+    text-align: left;
+  }
+  .nav-bar .row .navigation{
+    text-align: right;
+  }
   [class*="col-"] p{
     font-size: 1em;
   }
   #btn{
     padding: 5%;
     font-size: 1em;
+  }
+  ul{
+    display: none;
+  }
+  #burger-bar{
+    display: inline-block;
+    color: white;
   }
 }
